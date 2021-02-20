@@ -20,3 +20,17 @@ h1{
     font-weight: bold;
     font-size: 35px;
 }
+.timer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.unitTime{
+    border: 2px solid crimson;
+    font-size: 25px;
+    padding: 30px;
+    color: crimson;
+}
+span{
+    color: black;
+}
